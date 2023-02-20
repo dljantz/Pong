@@ -1,2 +1,1 @@
-# Pong
-My take on Pong.
+My take on Pong. I also threw in the ability to toggle gravity, inertial paddle movement, and cheat mode. Feel free to download and run locally. You will need Python and Pygame on your computer to run this program. Alternatively, watch a video tour of the game in action here: https://drive.google.com/file/d/1160NyrPoOPhvi-03WU6_WXI07DJLhDqZ/view?usp=sharing
